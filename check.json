@@ -1,0 +1,10 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "equivalentOhms": 4,
+    "amps": 3
+  }
+}

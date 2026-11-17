@@ -1,0 +1,14 @@
+{
+  "volts": 12,
+  "network": {
+    "series": [
+      2,
+      {
+        "parallel": [
+          6,
+          3
+        ]
+      }
+    ]
+  }
+}
